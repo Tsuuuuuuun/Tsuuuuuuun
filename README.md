@@ -33,7 +33,7 @@ I'm Hayato Tsumura. Currently studying @ Kyoto University
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CompetitiveLin&layout=compact) -->
 ![CompetitiveLin's Github Stats](https://github-readme-stats.vercel.app/api?username=Tsuuuuuuun&show_icons=true&count_private=true&custom_title=Tsuuuuuuun's%20Github%20Stats)
 
-## 📝 More Information
+## 📝 More Information ![](https://img.shields.io/github/last-commit/Tsuuuuuuun/Tsuuuuuuun.github.io?label=Last%20commit)
 
-- **Homepage**: <https://tsuuuuuuun.github.io/>
+- **Homepage**: <https://tsuuuuuuun.github.io/> 
 - **About me**: <https://tsuuuuuuun.github.io/profile/>
