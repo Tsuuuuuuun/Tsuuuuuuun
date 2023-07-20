@@ -6,8 +6,8 @@ I'm Hayato Tsumura. Currently studying @ Kyoto University
 
 ### 🚀 Programming Languages
   ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat)
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
   ![MATLAB](https://img.shields.io/badge/MATLAB-0790C0?logo=octave&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 
   
 ### 🗄️ Databases & Cloud Hosting
@@ -32,7 +32,7 @@ I'm Hayato Tsumura. Currently studying @ Kyoto University
 
 ![CompetitiveLin's Github Stats](https://github-readme-stats.vercel.app/api?username=Tsuuuuuuun&show_icons=true&count_private=true&custom_title=Tsuuuuuuun's%20Github%20Stats)
 
-## 📝 More Information ![](https://img.shields.io/github/last-commit/Tsuuuuuuun/Tsuuuuuuun.github.io?label=Last%20commit)
+## 📝 More Information ![](https://img.shields.io/github/last-commit/Tsuuuuuuun/Tsuuuuuuun.github.io?label=Last%20commit) [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) ![](https://img.shields.io/badge/ruby-CC342D?logo=ruby&logoColor=white&style=flat)
 
 - **Homepage**: <https://tsuuuuuuun.github.io/> 
 - **About me**: <https://tsuuuuuuun.github.io/profile/>
