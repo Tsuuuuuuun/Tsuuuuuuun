@@ -11,7 +11,7 @@ I'm Hayato Tsumura. Currently studying @ Kyoto University
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0h-n0&show_icons=true&theme=noctis_minimus&border_radius=50&layout=compact)](https://github.com/Tsuuuuuuun/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuuuuuuun&show_icons=true&theme=noctis_minimus&border_radius=50&layout=compact)](https://github.com/Tsuuuuuuun/github-readme-stats)
 
 
   
