@@ -9,6 +9,7 @@ I'm Hayato Tsumura. Currently studying @ Kyoto University
   ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat)
   ![MATLAB](https://img.shields.io/badge/MATLAB-0790C0?logo=octave&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+  ![R](https://img.shields.io/badge/R-276DC3?logo=R&style=flat)
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuuuuuuun&show_icons=true&theme=noctis_minimus&border_radius=50&layout=compact)](https://github.com/Tsuuuuuuun/github-readme-stats)
