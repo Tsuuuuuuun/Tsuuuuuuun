@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Hayato Tsumura. Currently studying @ Kyoto University
+I'm Hayato Tsumura.
 
 ## ⚡ Tech Stack
 
