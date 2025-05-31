@@ -17,5 +17,4 @@ I'm Hayato Tsumura.
 
 ## 📝 More Information ![](https://img.shields.io/github/last-commit/Tsuuuuuuun/Tsuuuuuuun.github.io?label=Last%20commit) [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) ![](https://img.shields.io/badge/ruby-CC342D?logo=ruby&logoColor=white&style=flat)
 
-- **Homepage**: <https://tsuuuuuuun.github.io/> 
-- **About me**: <https://tsuuuuuuun.github.io/profile/>
+- **Homepage**: <https://tsuuuuuuun.github.io/> （工事中！）
