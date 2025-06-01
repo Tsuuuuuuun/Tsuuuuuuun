@@ -15,6 +15,7 @@ I'm Hayato Tsumura.
 
 ![CompetitiveLin's Github Stats](https://github-readme-stats.vercel.app/api?username=Tsuuuuuuun&show_icons=true&count_private=true&custom_title=Tsuuuuuuun's%20Github%20Stats)
 
-## 📝 More Information ![](https://img.shields.io/github/last-commit/Tsuuuuuuun/Tsuuuuuuun.github.io?label=Last%20commit) [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) ![](https://img.shields.io/badge/ruby-CC342D?logo=ruby&logoColor=white&style=flat)
+## 📝 More Information 
 
 - **Homepage**: <https://tsuuuuuuun.github.io/> （工事中！）
+- **Digital Garden**: <https://garden-26.netlify.app/>
