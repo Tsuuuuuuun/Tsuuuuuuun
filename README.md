@@ -15,7 +15,8 @@ I'm Hayato Tsumura.
 
 ![CompetitiveLin's Github Stats](https://github-readme-stats.vercel.app/api?username=Tsuuuuuuun&show_icons=true&count_private=true&custom_title=Tsuuuuuuun's%20Github%20Stats)
 
-## 📝 More Information 
+## 📝 Web site
 
-- **Homepage**: <https://tsuuuuuuun.github.io/> （工事中！）
+- **Homepage**: ~~<https://tsuuuuuuun.github.io/>~~ （工事中！）
+- **blog**: <https://26g.netlify.app/>
 - **Digital Garden**: <https://garden-26.netlify.app/>
