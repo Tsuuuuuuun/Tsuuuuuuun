@@ -4,7 +4,17 @@ I'm Hayato Tsumura.
 
 ## ⚡ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ableton,anaconda,bash,bootstrap,django,docker,git,github,html,js,latex,linux,md,matlab,netlify,nextjs,obsidian,py,pytorch,qt,r,sklearn,ts,vscode,)](https://skillicons.dev)
+**Always**
+
+[![My Skills](https://skillicons.dev/icons?i=anaconda,bash,css,docker,git,github,html,linux,md,netlify,obsidian,py,pytorch,sklearn,vscode,)](https://skillicons.dev)
+
+**Sometimes**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,js,latex,)](https://skillicons.dev)
+
+**Recently**
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,flask,nextjs,ts)](https://skillicons.dev)
 
 ### 🚀 Programming Languages
 
