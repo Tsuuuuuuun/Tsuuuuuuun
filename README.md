@@ -6,15 +6,15 @@ I'm Hayato Tsumura.
 
 **Always**
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,bash,css,docker,git,github,html,linux,md,netlify,obsidian,py,pytorch,sklearn,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,bash,css,docker,git,github,html,linux,md,netlify,obsidian,py,pytorch,sklearn,vscode&perline=5)](https://skillicons.dev)
 
 **Sometimes**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,js,latex,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,js,latex&perline=5)](https://skillicons.dev)
 
 **Recently**
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,flask,nextjs,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,flask,nextjs,ts&perline=5)](https://skillicons.dev)
 
 ### 🚀 Programming Languages
 
