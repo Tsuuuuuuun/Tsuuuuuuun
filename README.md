@@ -1,32 +1,23 @@
-## Hi there 👋
+I'm Hayato Tsumura, an application architect.
 
-I'm Hayato Tsumura.
+## Tech Stack
 
-## ⚡ Tech Stack
+Currently,
 
-**Always**
+(work)
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,bash,css,docker,git,github,html,linux,md,netlify,obsidian,py,pytorch,sklearn,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,css,docker,flask,git,github,html,jest,linux,md,mysql,netlify,nextjs,obsidian,py,react,sklearn,ts,vscode&perline=5)](https://skillicons.dev)
 
-**Sometimes**
+(hobby)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,js,latex&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,latex,notion,sass&perline=5)](https://skillicons.dev)
 
-**Recently**
+Previously,
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,flask,nextjs,ts&perline=5)](https://skillicons.dev)
-
-### 🚀 Programming Languages
-
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuuuuuuun&show_icons=true&theme=noctis_minimus&border_radius=50&layout=compact)](https://github.com/Tsuuuuuuun/github-readme-stats)
-
-## 📈 Github Stats
-
-![CompetitiveLin's Github Stats](https://github-readme-stats.vercel.app/api?username=Tsuuuuuuun&show_icons=true&count_private=true&custom_title=Tsuuuuuuun's%20Github%20Stats)
+[![My Skills](https://skillicons.dev/icons?i=ableton,anaconda,cpp,django,java,matlab,pytorch,qt,r,sklearn&perline=5)](https://skillicons.dev)
 
 ## 📝 Web site
 
-- **Homepage**: ~~<https://tsuuuuuuun.github.io/>~~ （工事中！）
+- **Homepage**: ~~<https://tsuuuuuuun.github.io/>~~ (Sorry, under construction)
 - **blog**: <https://26g.netlify.app/>
 - **Digital Garden**: <https://garden-26.netlify.app/>
