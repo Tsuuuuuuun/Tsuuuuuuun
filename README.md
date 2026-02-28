@@ -20,4 +20,4 @@ I'm Hayato Tsumura, an application architect.
 
 - **Homepage**: ~~<https://tsuuuuuuun.github.io/>~~ (Sorry, under construction)
 - **blog**: <https://26g.netlify.app/>
-- **Digital Garden**: <https://garden-26.netlify.app/>
+- **bookmarks**: <https://bookmarks-26g.pages.dev/sites/>
