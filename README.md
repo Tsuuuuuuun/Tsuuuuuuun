@@ -19,5 +19,3 @@ I'm Hayato Tsumura, an application architect.
 ## 📝 Web site
 
 - **Homepage**: ~~<https://tsuuuuuuun.github.io/>~~ (Sorry, under construction)
-- **blog**: <https://26g.netlify.app/>
-- **bookmarks**: <https://bookmarks-26g.pages.dev/sites/>
